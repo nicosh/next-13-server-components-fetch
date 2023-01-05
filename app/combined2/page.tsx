@@ -4,7 +4,6 @@ import ServerOnlyWithRevalidate from '../../components/server/serverOnlyWithReva
 import ServerNoCache from '../../components/server/serverNoCache';
 import ClientComponent from '../../components/client/wrapper';
 import ServerComponentWithChildren from '../../components/server/serverComponentWithChildren';
-
 const Test2 = () => {
   return (
     <div className='main'>
